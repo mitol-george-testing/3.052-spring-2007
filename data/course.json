@@ -1,0 +1,54 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d6aace50-c154-78e5-b0c3-a14665ca5512"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Nanomechanics of Materials and Biomaterials",
+  "course_description": "This course focuses on the latest scientific developments and discoveries in the field of nanomechanics, the study of forces and motion on extremely tiny (10\\-9 m) areas of synthetic and biological materials and structures. At this level, mechanical properties are intimately related to chemistry, physics, and quantum mechanics. Most lectures will consist of a theoretical component that will then be compared to recent experimental data (case studies) in the literature. The course begins with a series of introductory lectures that describes the normal and lateral forces acting at the atomic scale. The following discussions include experimental techniques in high resolution force spectroscopy, atomistic aspects of adhesion, nanoindentation, molecular details of fracture, chemical force microscopy, elasticity of single macromolecular chains, intermolecular interactions in polymers, dynamic force spectroscopy, biomolecular bond strength measurements, and molecular motors.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.052",
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Simulation Videos",
+    "Lecture Notes",
+    "Exams with Solutions",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
